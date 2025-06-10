@@ -1,16 +1,27 @@
-## Hi there 👋
+# 自己紹介
 
-<!--
-**ShomaShirai/ShomaShirai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. 千葉県の大学四年生
 
-Here are some ideas to get you started:
+2. 研究で，C++とC#でのデスクトップアプリケーション開発中
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. バイトで，主にReactとFlaskを使ったWebアプリケーション開発中
+
+4. 社会人リーガー⚽
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ShomaShirai&show_icons=true&locale=en&layout=compact)
+
+## プログラミング言語
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,typescript,dart" /> <br /><br />
+
+## フレームワーク・ライブラリ
+
+<img src="https://skillicons.dev/icons?i=react,next,flask" /> <br /><br />
+
+## データベース
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase" /> <br /><br />
+
+## 開発ツール
+
+<img src="https://skillicons.dev/icons?i=git,githubactions,docker,gcp,vscode,visualstudio" /> <br /><br />
