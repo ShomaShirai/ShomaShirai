@@ -16,7 +16,7 @@
 
 ## フレームワーク・ライブラリ
 
-<img src="https://skillicons.dev/icons?i=react,next,flask" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,react,next,flask,flutter" /> <br /><br />
 
 ## データベース
 
