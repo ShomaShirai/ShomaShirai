@@ -8,8 +8,6 @@
 
 4. 社会人リーガー⚽
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=ShomaShirai&show_icons=true&locale=en&layout=compact)
-
 ## プログラミング言語
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,typescript,dart" /> <br /><br />
