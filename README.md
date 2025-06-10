@@ -8,7 +8,7 @@
 
 4. 社会人リーガー⚽
 
-### プログラミング言語
+### 使用言語
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,typescript,dart" /> <br /><br />
 
