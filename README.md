@@ -10,7 +10,7 @@
 
 ### 使用言語
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,typescript,dart" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,typescript,dart" /> <br /><br />
 
 ### フレームワーク・ライブラリ
 
