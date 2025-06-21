@@ -9,7 +9,7 @@
 4. 社会人リーガー⚽
 
 ### 使用言語
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,typescript,dart" /> <br />
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,typescript,dart" /> <br />
 
 ### フレームワーク・ライブラリ
 <img src="https://skillicons.dev/icons?i=opencv,pytorch,react,next,flask,flutter" /> <br />
