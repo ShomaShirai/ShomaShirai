@@ -22,4 +22,5 @@
 
 # デプロイしているサービス
 - https://ito-game-sigma.vercel.app : itoのオンラインリアルタイム対戦ゲーム(supabaseの無料版を使用のため，1週間アクセスがないと使えなくなります)
-- https://ss2413-xbeu.onrender.com : 誰が一番逃げ切れるかのオンラインリアルタイム対戦ゲーム
+- https://hagetaka-game.web.app     : ハゲタカのえじきのオンラインリアル対戦ゲーム
+- https://ss2413-xbeu.onrender.com  : 誰が一番逃げ切れるかのオンラインリアルタイム対戦ゲーム
