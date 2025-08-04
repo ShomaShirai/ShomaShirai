@@ -12,7 +12,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,typescript,dart" /> <br />
 
 ### フレームワーク・ライブラリ
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,react,next,flask,flutter" />  <br />
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,dotnet,react,next,flask,flutter" />  <br />
 
 ### データベース
 <img src="https://skillicons.dev/icons?i=firebase,supabase" /> <br />
