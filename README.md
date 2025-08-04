@@ -20,7 +20,8 @@
 ### 開発ツール
 <img src="https://skillicons.dev/icons?i=git,docker,gcp,cloudflare,vercel" /> <br />
 
-# デプロイしているサービス
+## ポートフォリオ
+### ソフトウェア
 - https://ito-game-sigma.vercel.app     : itoのオンラインリアルタイム対戦ゲーム(supabaseの無料版を使用のため，1週間アクセスがないと使えなくなります)
 - https://hagetaka-game.firebaseapp.com : ハゲタカのえじきのオンラインリアル対戦ゲーム
 - https://ss2413-xbeu.onrender.com      : 誰が一番逃げ切れるかのオンラインリアルタイム対戦ゲーム
