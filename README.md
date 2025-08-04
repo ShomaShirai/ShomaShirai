@@ -12,13 +12,13 @@
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,typescript,dart" /> <br />
 
 ### フレームワーク・ライブラリ
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,react,next,flask,flutter" /> <br />
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,react,next,hono,flask,flutter" /> <br />
 
 ### データベース
 <img src="https://skillicons.dev/icons?i=firebase,supabase" /> <br />
 
 ### 開発ツール
-<img src="https://skillicons.dev/icons?i=git,githubactions,docker,gcp,vscode,visualstudio" /> <br />
+<img src="https://skillicons.dev/icons?i=git,docker,gcp,cloudflare" /> <br />
 
 # デプロイしているサービス
 - https://ito-game-sigma.vercel.app     : itoのオンラインリアルタイム対戦ゲーム(supabaseの無料版を使用のため，1週間アクセスがないと使えなくなります)
