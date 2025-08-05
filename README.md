@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=firebase,supabase" /> <br />
 
 ### 開発ツール
-<img src="https://skillicons.dev/icons?i=git,docker,gcp,cloudflare,vercel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,docker,gcp,cloudflare,vercel,render" /> <br /><br />
 
 ## ポートフォリオ
 ### ソフトウェア
