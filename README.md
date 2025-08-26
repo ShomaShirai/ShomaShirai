@@ -1,12 +1,12 @@
 # 自己紹介
 
-1. 千葉県の学部4年
+1. 社会人リーガー⚽
 
-2. 研究で，C++とC#のデスクトップアプリケーション開発中
+2. 研究で，C++とC#のデスクトップアプリケーション開発
 
-3. バイトで，ReactとFlaskのWebアプリケーション開発中
+3. バイトでのWebアプリケーション開発
 
-4. 社会人リーガー⚽
+4. Atcoder精進中(https://atcoder.jp/users/shoma5734)
 
 ### 使用言語
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,typescript,dart" /> <br />
