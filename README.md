@@ -15,7 +15,7 @@
 <img src="https://skillicons.dev/icons?i=opencv,pytorch,dotnet,nodejs,react,next,flask,fastapi,flutter" />  <br />
 
 ### データベース
-<img src="https://skillicons.dev/icons?i=firebase,supabase" /> <br />
+<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase" /> <br />
 
 ### 開発ツール
 <img src="https://skillicons.dev/icons?i=git,docker,gcp,cloudflare,vercel" /> <br /><br />
