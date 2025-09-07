@@ -6,7 +6,7 @@
 
 3. バイトでのWebアプリケーション開発
 
-4. Atcoder精進中(https://atcoder.jp/users/shoma5734)
+4. Atcoder:茶色(https://atcoder.jp/users/shoma5734)
 
 ### 使用言語
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,typescript,dart" /> <br />
