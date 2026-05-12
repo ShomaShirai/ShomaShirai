@@ -1,4 +1,4 @@
-・ 社会人リーガー⚽
+・ 社会人リーガー⚽🎾
 
 ・ Atcoder : 緑色 / C++, Python (https://atcoder.jp/users/shoma5734)
 
